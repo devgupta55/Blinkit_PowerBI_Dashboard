@@ -77,7 +77,7 @@ The dashboard utilizes data imported from CSV files. The primary tables include:
 
 ## 🚀 How to Use:
 
-1.  **Download the Power BI file** from the repository.
+1.  [**Download the Power BI file**](https://drive.google.com/file/d/1mdiIvvcKWHXrRHZfqAr9fYpaGl-2RiSX/view?usp=drive_link)
 2.  **Open the .pbix file** in Power BI Desktop.
 3.  **Explore the dashboard** and interact with the visuals.
 4.  **Use the slicers** in the filter pane to customize the data view.
